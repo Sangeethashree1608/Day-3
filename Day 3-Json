@@ -1,0 +1,34 @@
+var Resume= {
+
+    "Name"          : "Sangeethashree",
+    "Email address" : "sangeethashree1608@gmail.com",
+    "Contact number": "7373348491",
+    "DOB"           : "16/08/2000",
+    "Address"       : "1/53, Ramanujar koil street, kadamalai puthur, Chengalpet district, 603310",
+  "Academic qualification":{
+
+        "10th std":{
+            "University board"  : "State board",
+            "School name"       : "St. Joseph's Matriculation Higher Secondary School",
+            "Percentage"        : "96.6",
+            "Passed year"       : "2015"},
+        "12th standard": {
+            "University board"  : "State board",
+            "School name"       : "St. Joseph's Matriculation Higher Secondary School",
+            "Percentage"        : "92.4",
+            "Passed year"       : "2017"},
+        "Under Graduate": {
+            "University board"  : "University of Madras",
+            "College name"      : "Women's Christian College",
+            "CGPA"              : "8.4",
+            "Passed year"       : "2021"}, },
+
+    "Work experience": {
+
+        "Designation"    : "Associate- Account Management",
+        "Company name"   : "Sutherland Global Services",
+        "Role"           : "Customer support",
+        "CTC"            : "2.5 LPA"},
+
+}
+console.log(Resume);
